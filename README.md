@@ -1,6 +1,6 @@
 ![Header](https://github.com/KardopoloFF/KardopoloFF/blob/main/assets/programming-laptop.jpg)
 
-About me
+## Hi! I'm a front-end web developer.
 
 Languages and Tools
 

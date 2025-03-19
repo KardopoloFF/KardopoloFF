@@ -1,6 +1,6 @@
 ![Header](https://github.com/KardopoloFF/KardopoloFF/blob/main/assets/programming-laptop.jpg)
 
-## Hi! I'm a front-end web developer.
+## Hi! I'm a front-end web developer from Russia. I love beautiful views on pages and creating hard web-servies
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
